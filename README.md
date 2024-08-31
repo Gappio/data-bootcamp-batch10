@@ -7,4 +7,7 @@ My data science and analytics projects
 2. SQL churn analysis
 3. R Programing - Pao Ying Chob
 4. Looker GA4 Dashboard
-5. 
+5. Linear Regregression Model using caret
+
+## Contact Me
+gap.ptrp@gmail.com
